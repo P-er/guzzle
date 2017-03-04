@@ -21,7 +21,8 @@ to use a different method of sending requests.
 
 
 Can Guzzle send asynchronous requests?
-======================================
+=====================================
+=
 
 Yes. You can use the ``requestAsync``, ``sendAsync``, ``getAsync``,
 ``headAsync``, ``putAsync``, ``postAsync``, ``deleteAsync``, and ``patchAsync``
